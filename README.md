@@ -86,6 +86,9 @@ python3 -m http.server 4173
 
 Open the printed localhost URL. Internet needed only for the three external pieces listed above.
 
+Full setup guide — clone, serve, troubleshoot, repo map: **[SETUP.md](SETUP.md)**.
+Recreating this from scratch with your own assets: **[REBUILD.md](REBUILD.md)**.
+
 ---
 
 <div align="center">
