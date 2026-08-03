@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Env — never commit real env files
+.env
+.env.*
+!.env.example
+
+# Build output
+dist/
+.astro/
+
+# Local scratch
+*.tmp
